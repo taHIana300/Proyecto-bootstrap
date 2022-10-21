@@ -1,0 +1,32 @@
+.logo img{
+    width: 50px;
+
+}
+.redes i,
+.redes svg{
+    font-size: 30px;
+    margin: 0 10px;
+}
+.Slider img{
+    height: 600px;
+}
+.con-texto .promo{
+    background-image: url(../image/promo\ \(1\).png);
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    padding: 7px 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+.con-texto h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+.con-texto p{
+    font-size: 20px;
+    color: gray;
+}
